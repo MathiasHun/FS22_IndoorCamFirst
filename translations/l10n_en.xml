@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <l10n>
    <texts>
-      <text name="setting_IndoorCamFirst_title" text="Indooe Camera First"/>
+      <text name="setting_IndoorCamFirst_title" text="Indoor Camera First"/>
       <text name="setting_IndoorCamFirst_label" text="Inside view"/>
       <text name="setting_IndoorCamFirst_description" text="After boarding, it sets the inside camera as the default for every vehicles."/>
       <text name="setting_IndoorCamFirst_selection_on" text="On"/>
