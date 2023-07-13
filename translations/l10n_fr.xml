@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<l10n>
+   <texts>
+      <text name="setting_IndoorCamFirst_title" text="Caméra intérieure d'abord"/>
+      <text name="setting_IndoorCamFirst_label" text="Vue de l'intérieur"/>
+      <text name="setting_IndoorCamFirst_description" text="Après l'embarquement, il définit la caméra intérieure par défaut pour tous les véhicules."/>
+      <text name="setting_IndoorCamFirst_selection_on" text="On"/>
+      <text name="setting_IndoorCamFirst_selection_off" text="Off"/>
+   </texts>
+</l10n>
