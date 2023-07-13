@@ -3,7 +3,7 @@
 ![alt text](
 https://github.com/MathiasHun/FS22_IndoorCamFirst/blob/main/icon_indoorCamFirst.png?raw=true)
 
-[Download the latest developer version (the file FS22_gameplay_IndoorCamFirst.zip)]([https://www.google.com](https://github.com/MathiasHun/FS22_IndoorCamFirst/releases/download/2.0.0.0/FS22_gameplay_IndoorCamFirst.zip))
+![Download the latest developer version](https://github.com/MathiasHun/FS22_IndoorCamFirst/releases/download/2.0.0.0/FS22_gameplay_IndoorCamFirst.zip) (the file FS22_gameplay_IndoorCamFirst.zip)
 
 After boarding, it sets the inside camera as the default for every vehicles. The external camera can also be used as usual.
 
