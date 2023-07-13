@@ -1,7 +1,6 @@
 # FS22_IndoorCamFirst
 
-![alt text](
-https://github.com/MathiasHun/FS22_IndoorCamFirst/blob/main/icon_indoorCamFirst.png?raw=true)
+![alt text](https://github.com/MathiasHun/FS22_IndoorCamFirst/blob/FS22_IndoorCamFirst/icon_indoorCamFirst.png)
 
 ![Download the latest developer version](https://github.com/MathiasHun/FS22_IndoorCamFirst/releases/download/2.0.0.0/FS22_gameplay_IndoorCamFirst.zip) (the file FS22_gameplay_IndoorCamFirst.zip)
 
