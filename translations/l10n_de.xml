@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<l10n>
+   <texts>
+      <text name="setting_IndoorCamFirst_title" text="Innenansicht-Standard"/>
+      <text name="setting_IndoorCamFirst_label" text="Innenansicht"/>
+      <text name="setting_IndoorCamFirst_description" text="Nach dem Einsteigen wird die Innenkamera als Standard für jedes Fahrzeug festgelegt."/>
+      <text name="setting_IndoorCamFirst_selection_on" text="An"/>
+      <text name="setting_IndoorCamFirst_selection_off" text="Aus"/>
+   </texts>
+</l10n>
