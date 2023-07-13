@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<l10n>
+   <texts>
+      <text name="setting_IndoorCamFirst_title" text="Beltéri kamera elöszőr"/>
+      <text name="setting_IndoorCamFirst_label" text="Belső nézet"/>
+      <text name="setting_IndoorCamFirst_description" text="Beszállás után minden járműnél alapértelmezettként állítja be a beltéri kamerát."/>
+      <text name="setting_IndoorCamFirst_selection_on" text="Be"/>
+      <text name="setting_IndoorCamFirst_selection_off" text="Ki"/>
+   </texts>
+</l10n>
