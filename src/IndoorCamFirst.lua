@@ -9,7 +9,7 @@
 -- #############################################################################
 
 IndoorCamFirst = {};
-IndoorCamFirst.Version = "2.0.0.0";
+IndoorCamFirst.Version = "1.0.0.0";
 local myName = "FS22_gameplay_IndoorCamFirst";
 
 IndoorCamFirst.directory = g_currentModDirectory;
