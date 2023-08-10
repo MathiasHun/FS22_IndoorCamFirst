@@ -16,7 +16,7 @@
 
 Bug report, please visit https://github.com/MathiasHun/FS22_IndoorCamFirst/
 
-Changelog 1.0.0.0:
+Changelog 2.0.0.0:
 - Making it compatible from FS19 to FS22
 - Added settings menu so the mode can be turned on and off
 - Making translation English, French, Hungarian, German
@@ -30,7 +30,9 @@ Rename the l10n_en.xml file to use your choice of language code (de,fr,hu,ru,ch,
 Now you can edit your own local copy for this mod, and when it is error-free, it will be loaded by a script in this mod when a game-session is started.]]></en>
 <fr><![CDATA[Après l'embarquement, il définit la caméra intérieure comme caméra par défaut pour tous les véhicules. La caméra externe peut également être utilisée comme d'habitude.
 
-Changelog 1.0.0.0:
+Rapport de bogue, veuillez visiter https://github.com/MathiasHun/FS22_IndoorCamFirst/
+
+Changelog 2.0.0.0:
 - Le rendant compatible de FS19 à FS22
 - Ajout d'un menu de paramètres pour que le mode puisse être activé et désactivé
 - Faire la traduction Anglais, Français, Hongrois, Allemand
@@ -44,7 +46,9 @@ Renommez le fichier l10n_en.xml pour utiliser le code de langue de votre choix (
 Vous pouvez maintenant modifier votre propre copie locale pour ce mod, et lorsqu'elle est sans erreur, elle sera chargée par un script dans ce mod au démarrage d'une session de jeu.]]></fr>
 <hu><![CDATA[Beszállás után minden járműnél alapértelmezettként állítja be a beltéri kamerát. A megszokott módon a külső kamera is használható.
 
-Changelog 1.0.0.0:
+Hibajelentés, kérjük látogasson el a https://github.com/MathiasHun/FS22_IndoorCamFirst/ oldalra
+
+Changelog 2.0.0.0:
 - Kompatibilissé tétele FS19-ről FS22-re
 - Beállítások menü hozzáadva, ezáltal a mód ki- és be kapcsolható
 - Angol, Francia, Magyar, Német fordítás elkészítve
@@ -58,7 +62,9 @@ Nevezd át az l10n_en.xml fájlt a választott nyelvi kód (de,fr,hu,ru,ch,...) 
 Most már szerkesztheti a saját helyi másolatát ehhez a modhoz, és ha az hibamentes, akkor egy játékmenet indításakor egy szkript tölti be ebben a modban.]]></hu>
 <de><![CDATA[Nach dem Einsteigen wird die Innenkamera als Standard für jedes Fahrzeug festgelegt. Auch die externe Kamera kann wie gewohnt genutzt werden.
 
-Changelog 1.0.0.0:
+Fehlerbericht, bitte besuchen Sie https://github.com/MathiasHun/FS22_IndoorCamFirst/
+
+Changelog 2.0.0.0:
 - Kompatibilität von FS19 zu FS22 hergestellt
 - Einstellungsmenü hinzugefügt, damit der Modus ein- und ausgeschaltet werden kann
 - Übersetzung in Englisch, Französisch, Ungarisch, Deutsch
@@ -72,7 +78,7 @@ Benennen Sie die Datei l10n_en.xml nach dem Sprachcode Ihrer Wahl (de,fr,hu,ru,c
 Jetzt können Sie Ihre eigene lokale Kopie für diese Mod bearbeiten, und wenn sie fehlerfrei ist, wird sie von einem Skript in dieser Mod geladen, wenn eine Spiel-Sitzung gestartet wird.]]></de>
 </description> 
 
-   <version>1.0.0.0</version>
+   <version>2.0.0.0</version>
 
    <multiplayer supported="true"/>
 
