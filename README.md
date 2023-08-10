@@ -6,7 +6,7 @@
 
 After boarding, it sets the inside camera as the default for every vehicles. The external camera can also be used as usual.
 
-Changelog 1.0.0.0
+Changelog 2.0.0.0
 - Making it compatible from FS19 to FS22
 - Added settings menu so the mode can be turned on and off
 - Making translation English, French, Hungarian, German
@@ -21,7 +21,7 @@ Now you can edit your own local copy for this mod, and when it is error-free, it
 
 Beszállás után minden járműnél alapértelmezettként állítja be a beltéri kamerát. A megszokott módon a külső kamera is használható.
 
-Changelog 1.0.0.0
+Changelog 2.0.0.0
 - Kompatibilissé tétele FS19-ről FS22-re
 - Beállítások menü hozzáadva, ezáltal a mód ki- és be kapcsolható
 - Angol, Francia, Magyar, Német fordítás elkészítve
