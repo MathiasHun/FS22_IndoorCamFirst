@@ -9,7 +9,7 @@
 -- #############################################################################
 
 IndoorCamFirst = {};
-IndoorCamFirst.Version = "2.0.0.0";
+IndoorCamFirst.Version = "2.0.0.1";
 local myName = "FS22_gameplay_IndoorCamFirst";
 
 IndoorCamFirst.directory = g_currentModDirectory;
@@ -50,10 +50,12 @@ function IndoorCamFirst:onEnterVehicle()
 			IndoorCamFirst:init(self);
 		else
 			if self.lastCam ~= nil and registerIndoorCamFirst.indoorActivationState == 1 then
-				if g_gameSettings:getValue("resetCamera") and (self.lastCam ~= self.spec_enterable.camIndex) then
-					self.spec_enterable:setActiveCameraIndex(self.lastCam);
-				else
+				if self.lastCam == 3 then
 					self.spec_enterable:setActiveCameraIndex(2);
+				else 
+					if g_gameSettings:getValue("resetCamera") and (self.lastCam ~= self.spec_enterable.camIndex) then
+						self.spec_enterable:setActiveCameraIndex(self.lastCam);
+					end;
 				end;
 			end;
 		end;
