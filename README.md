@@ -2,9 +2,14 @@
 
 ![alt text](https://github.com/MathiasHun/FS22_IndoorCamFirst/blob/FS22_IndoorCamFirst/icon_indoorCamFirst.png)
 
-![Download the latest developer version](https://github.com/MathiasHun/FS22_IndoorCamFirst/releases/download/2.0.0.0/FS22_gameplay_IndoorCamFirst.zip) (the file FS22_gameplay_IndoorCamFirst.zip)
+![Download the latest developer version](https://github.com/MathiasHun/FS22_IndoorCamFirst/releases/download/2.0.0.1/FS22_gameplay_IndoorCamFirst.zip) (the file FS22_gameplay_IndoorCamFirst.zip)
 
 After boarding, it sets the inside camera as the default for every vehicles. The external camera can also be used as usual.
+
+Changelog 2.0.0.1:
+- 3rd camera "rueckfahr" problem fixed
+  https://github.com/MathiasHun/FS22_IndoorCamFirst/issues/1
+- Updated Mod Icon
 
 Changelog 2.0.0.0
 - Making it compatible from FS19 to FS22
@@ -21,6 +26,11 @@ Now you can edit your own local copy for this mod, and when it is error-free, it
 
 Beszállás után minden járműnél alapértelmezettként állítja be a beltéri kamerát. A megszokott módon a külső kamera is használható.
 
+Changelog 2.0.0.1:
+- 3. kamera "rueckfahr" probléma javítva
+  https://github.com/MathiasHun/FS22_IndoorCamFirst/issues/1
+- Mod Ikon frissítve
+  
 Changelog 2.0.0.0
 - Kompatibilissé tétele FS19-ről FS22-re
 - Beállítások menü hozzáadva, ezáltal a mód ki- és be kapcsolható
