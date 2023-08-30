@@ -37,7 +37,7 @@ function IndoorCamFirst:init(vehicle)
 
 	if vehicle.spec_enterable ~= nil and registerIndoorCamFirst.indoorActivationState == 1 then
 		for camIndex, camera in pairs(vehicle.spec_enterable.cameras) do
-			if camera.isInside then
+			if camera.isInside and camera.isRotatable then
 				vehicle.spec_enterable:setActiveCameraIndex(camIndex);
 			end;
 		end;
@@ -52,8 +52,8 @@ function IndoorCamFirst:onEnterVehicle()
 			if self.lastCam ~= nil and registerIndoorCamFirst.indoorActivationState == 1 then
 				if g_gameSettings:getValue("resetCamera") and (self.lastCam ~= self.spec_enterable.camIndex) then
 					self.spec_enterable:setActiveCameraIndex(self.lastCam);
-				--else
-					--self.spec_enterable:setActiveCameraIndex(2);
+				else
+					self.spec_enterable:setActiveCameraIndex(2);
 				end;
 			end;
 		end;
