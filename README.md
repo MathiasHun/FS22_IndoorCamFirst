@@ -27,7 +27,7 @@ Now you can edit your own local copy for this mod, and when it is error-free, it
 Beszállás után minden járműnél alapértelmezettként állítja be a beltéri kamerát. A megszokott módon a külső kamera is használható.
 
 Changelog 2.0.0.1:
-- 3. kamera "rueckfahr" probléma javítva
+- III. kamera "rueckfahr" probléma javítva
   https://github.com/MathiasHun/FS22_IndoorCamFirst/issues/1
 - Mod Ikon frissítve
   
